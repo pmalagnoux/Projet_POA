@@ -1,5 +1,7 @@
 # Projet_POA Benchmark Python Jython Cython
 
+Ce projet a été développé, testé et exécuté mais l'environnement Pycharm CE
+
 # Parties
 
 Ce projet comprte 2 branches : \
