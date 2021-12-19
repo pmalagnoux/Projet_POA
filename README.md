@@ -1,5 +1,10 @@
 # Projet_POA Benchmark Python Jython Cython
 
+# Parties
+
+Ce projet comprte 2 branches :
+main -> Benchmark Python Cython Jython
+Test_Jython -> Benchmark Jython
 # Prérequis
 
 >Python 2 \
