@@ -2,8 +2,8 @@
 
 # Parties
 
-Ce projet comprte 2 branches :
-main -> Benchmark Python Cython Jython
+Ce projet comprte 2 branches : \
+main -> Benchmark Python Cython Jython \
 Test_Jython -> Benchmark Jython
 # Prérequis
 
