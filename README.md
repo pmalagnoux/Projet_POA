@@ -1,6 +1,6 @@
 # Projet_POA Benchmark Python Jython Cython
 
-Ce projet a été développé, testé et exécuté mais l'environnement Pycharm CE
+Ce projet a été développé, testé et exécuté dans l'environnement Pycharm CE
 
 # Parties
 
