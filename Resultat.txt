@@ -1,0 +1,16 @@
+Premier
+[('Jython (-jar)                 ', '1.693     ', 'sec'), ('Python (py)                   ', '0.321     ', 'sec'), ('Cython (py)                   ', '0.292     ', 'sec'), ('Cython (c)                    ', '0.036     ', 'sec')]
+Factorielle
+[('Jython (-jar)                 ', '1.571     ', 'sec'), ('Python (py)                   ', '0.035     ', 'sec'), ('Cython (c)                    ', '0.034     ', 'sec'), ('Cython (py)                   ', '0.032     ', 'sec')]
+Fibonacci
+[('Jython (-jar)                 ', '7.914     ', 'sec'), ('Python (py)                   ', '6.037     ', 'sec'), ('Cython (py)                   ', '5.907     ', 'sec'), ('Cython (c)                    ', '2.082     ', 'sec')]
+Print
+[('Jython (-jar)                 ', '1.578     ', 'sec'), ('Cython (py)                   ', '0.287     ', 'sec'), ('Python (py)                   ', '0.277     ', 'sec'), ('Cython (c)                    ', '0.266     ', 'sec')]
+Tableau
+[('Python (py)                   ', '2.736     ', 'sec'), ('Cython (py)                   ', '2.595     ', 'sec'), ('Jython (-jar)                 ', '2.425     ', 'sec'), ('Cython (c)                    ', '0.567     ', 'sec')]
+TriFusion
+[('jython (-jar)                 ', '1.950     ', 'sec'), ('Cython (py)                   ', '0.297     ', 'sec'), ('Python (py)                   ', '0.290     ', 'sec'), ('Cython (c)                    ', '0.124     ', 'sec')]
+TriInsertion
+[('jython (-jar)                 ', '1.978     ', 'sec'), ('Cython (py)                   ', '0.303     ', 'sec'), ('Python (py)                   ', '0.286     ', 'sec'), ('Cython (c)                    ', '0.071     ', 'sec')]
+Quicksort
+[('Jython (-jar)                 ', '2.000     ', 'sec'), ('Python (py)                   ', '0.249     ', 'sec'), ('Cython (py)                   ', '0.186     ', 'sec'), ('Cython (c)                    ', '0.087     ', 'sec')]

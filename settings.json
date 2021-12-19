@@ -1,0 +1,12 @@
+{
+    "python.analysis.extraPaths": [
+        "./Finonacci",
+        "./TriInsertion",
+        "./TriFusion",
+        "./Tableaux",
+        "./Quicksort",
+        "./Print",
+        "./Factoriel",
+        "./Premier"
+    ]
+}
