@@ -1,0 +1,17 @@
+
+Premier
+[('Jython (py)                   ', '2.539     ', 'sec'), ('Jython (class)                ', '2.396     ', 'sec')]
+Factorielle
+[('Jython (py)                   ', '1.791     ', 'sec'), ('Jython (class)                ', '1.670     ', 'sec')]
+Fibonacci
+[('Jython (py)                   ', '8.378     ', 'sec'), ('Jython (class)                ', '8.219     ', 'sec')]
+Print
+[('Jython (py)                   ', '2.006     ', 'sec'), ('Jython (class)                ', '1.933     ', 'sec')]
+Tableau
+[('Jython (py)                   ', '3.361     ', 'sec'), ('Jython (class)                ', '2.836     ', 'sec')]
+TriFusion
+[('jython (py)                   ', '2.384     ', 'sec'), ('jython (class)                ', '1.861     ', 'sec')]
+TriInsertion
+[('jython (py)                   ', '2.000     ', 'sec'), ('jython (class)                ', '1.799     ', 'sec')]
+Quicksort
+[('Jython (py)                   ', '1.840     ', 'sec'), ('Jython (class)                ', '1.759     ', 'sec')]
