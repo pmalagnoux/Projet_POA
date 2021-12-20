@@ -7,14 +7,16 @@ Ce projet a été développé, testé et exécuté dans l'environnement Pycharm 
 Ce projet comprte 2 branches : \
 main -> Benchmark Python Cython Jython \
 Test_Jython -> Benchmark Jython
+
 # Prérequis
 
 >Python 2 \
 Python 3 \
 Jython https://www.jython.org/ \
 Cython \
-Compilateur c
+Compilateur c \
 
+Important : Dans chaque Benchmark, il faut remplcer la ligne de Jython sur Windows soit en modifiant la commade qui est de le fichier .sh correspondant soit en modifiant le .sh en .bat
 # Exécution
 
 Après avoir installé tous le nécessaire, il faut modifier les chemins dans les tableaux "test" dans les fichiers Benchmark_.py. 
